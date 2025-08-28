@@ -15,7 +15,7 @@ except FileNotFoundError:
 # --- App Title ---
 st.title("💳 Fraudulent Transaction Detection")
 st.markdown("""
-This app predicts whether a transaction is **Fraudulent** or **Legitimate**  
+This app predicts whether a transaction is Fraudulent or Legitimate  
 based on transaction details.
 ---
 """)
